@@ -5,7 +5,7 @@ import Topic from "./topic";
 import Loader from "./loader";
 import {TopicQuery} from "./TopicQuery";
 
-const REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN = "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";
+const REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN = "";
 
 function App() {
   const [reactTopics, setReactTopics] = useState([]);
